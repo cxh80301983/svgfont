@@ -1,0 +1,28 @@
+{
+  "name": "svnfont",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp-iconfont": "^5.0.1"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cxh80301983/svnfont.git"
+  },
+  "keywords": [
+    "svnfont"
+  ],
+  "author": "ibeeger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cxh80301983/svnfont/issues"
+  },
+  "homepage": "https://github.com/cxh80301983/svnfont#readme"
+}
