@@ -9,8 +9,31 @@
   font-style: normal;
 }
 
-.s-heart:before,
-.s-paint-format:before {
+.s-blog:before,
+.s-checkbox-checked:before,
+.s-checkbox-unchecked:before,
+.s-checkmark:before,
+.s-circle-down:before,
+.s-clipboard:before,
+.s-confused:before,
+.s-crying:before,
+.s-envelop:before,
+.s-file-text:before,
+.s-folder:before,
+.s-info:before,
+.s-mobile:before,
+.s-notification:before,
+.s-pen:before,
+.s-radio-checked (1):before,
+.s-radio-checked:before,
+.s-radio-unchecked:before,
+.s-sleepy:before,
+.s-spades:before,
+.s-switch:before,
+.s-user-tie:before,
+.s-user:before,
+.s-users:before,
+.s-wondering:before {
   font-family: "myfont";
   font-style: normal;
   font-weight: normal;
@@ -21,5 +44,28 @@
   display: inline-block;
   text-decoration: inherit;
 }
-.s-heart:before { content: "\" }
-.s-paint-format:before { content: "\" }
+.s-blog:before { content: "\" }
+.s-checkbox-checked:before { content: "\" }
+.s-checkbox-unchecked:before { content: "\" }
+.s-checkmark:before { content: "\" }
+.s-circle-down:before { content: "\" }
+.s-clipboard:before { content: "\" }
+.s-confused:before { content: "\" }
+.s-crying:before { content: "\" }
+.s-envelop:before { content: "\" }
+.s-file-text:before { content: "\" }
+.s-folder:before { content: "\" }
+.s-info:before { content: "\" }
+.s-mobile:before { content: "\" }
+.s-notification:before { content: "\" }
+.s-pen:before { content: "\" }
+.s-radio-checked (1):before { content: "\" }
+.s-radio-checked:before { content: "\" }
+.s-radio-unchecked:before { content: "\" }
+.s-sleepy:before { content: "\" }
+.s-spades:before { content: "\" }
+.s-switch:before { content: "\" }
+.s-user-tie:before { content: "\" }
+.s-user:before { content: "\" }
+.s-users:before { content: "\" }
+.s-wondering:before { content: "\" }
